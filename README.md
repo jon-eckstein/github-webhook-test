@@ -10,11 +10,5 @@ it's a new line
 it's a another new line.
 another new line
 ##new heading!!
-asdasd
-adsa
-asda
 
-a
-sdasdasd
-asdasdsad
-asdasda
+we fixed the thing!
